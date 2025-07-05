@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "개인 포트폴리오 웹사이트",
+    "summary": "현대적인 디자인과 반응형 레이아웃을 적용한 개인 포트폴리오 웹사이트",
+    "description": "HTML5, CSS3, JavaScript를 사용하여 처음부터 직접 구현한 개인 포트폴리오 웹사이트입니다. 모바일 우선 반응형 디자인을 적용했으며, 접근성과 성능 최적화에 중점을 두었습니다.",
+    "category": "web",
+    "techStack": ["HTML5", "CSS3", "JavaScript", "Git"],
+    "features": [
+      "반응형 웹 디자인",
+      "모바일 최적화",
+      "접근성 고려 설계",
+      "CSS Grid & Flexbox 활용",
+      "스크롤 애니메이션"
+    ],
+    "status": "completed",
+    "date": "2024-07-01",
+    "link": "#",
+    "github": "https://github.com/hyeon-excel/portfolio",
+    "image": "assets/images/projects/portfolio.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Todo 관리 웹 앱",
+    "summary": "React를 사용한 인터랙티브한 할일 관리 애플리케이션",
+    "description": "React Hooks와 Context API를 활용하여 상태 관리를 구현한 Todo 관리 앱입니다. 로컬 스토리지를 활용한 데이터 저장과 드래그 앤 드롭 기능을 포함합니다.",
+    "category": "web",
+    "techStack": ["React", "JavaScript", "CSS3", "LocalStorage"],
+    "features": [
+      "할일 추가/삭제/완료 처리",
+      "카테고리별 필터링",
+      "드래그 앤 드롭 정렬",
+      "로컬 스토리지 데이터 저장",
+      "다크모드 지원"
+    ],
+    "status": "completed",
+    "date": "2024-06-15",
+    "link": "#",
+    "github": "https://github.com/hyeon-excel/todo-app",
+    "image": "assets/images/projects/todo-app.jpg"
+  },
+  {
+    "id": 3,
+    "title": "날씨 정보 모바일 앱",
+    "summary": "Flutter로 개발한 실시간 날씨 정보 확인 앱",
+    "description": "OpenWeatherMap API를 연동하여 실시간 날씨 정보를 제공하는 모바일 앱입니다. 위치 기반 서비스와 일주일 예보 기능을 포함합니다.",
+    "category": "mobile",
+    "techStack": ["Flutter", "Dart", "API Integration", "Location Services"],
+    "features": [
+      "현재 위치 기반 날씨 정보",
+      "7일 일기예보",
+      "시간대별 날씨 상세 정보",
+      "즐겨찾기 도시 관리",
+      "푸시 알림 기능"
+    ],
+    "status": "completed",
+    "date": "2024-05-20",
+    "link": "#",
+    "github": "https://github.com/hyeon-excel/weather-app",
+    "image": "assets/images/projects/weather-app.jpg"
+  }
+]
